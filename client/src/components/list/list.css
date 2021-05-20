@@ -1,0 +1,37 @@
+ul {
+    list-style-type: none; /* Remove bullets */
+    padding: 0rem 0px; /* Remove padding */
+    margin: 15px; /* Remove margins */
+    min-width: 200px;
+  }
+
+.list{
+    max-height: 80vh;
+    overflow-y: scroll;
+    color: white;
+    overflow-x: hidden;
+
+}
+
+.lstHeader{
+  background-color: grey;
+  color: white;
+  border: white;
+}
+
+ul h3{
+  padding: 12px;
+  color: #fff;
+  margin-bottom: 0;
+ 
+}
+  
+  ul li  {
+    text-align: left;
+    color: black;
+    border: 1px solid #ddd; /* Add a thin border to each list item */
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6; /* Add a grey background color */
+    padding: 12px; /* Add some padding */
+  }
+  

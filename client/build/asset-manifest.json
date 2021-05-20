@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00b13903.chunk.css",
+    "main.js": "/static/js/main.def578b4.chunk.js",
+    "main.js.map": "/static/js/main.def578b4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.5a45fb00.chunk.js": "/static/js/2.5a45fb00.chunk.js",
+    "static/js/2.5a45fb00.chunk.js.map": "/static/js/2.5a45fb00.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.00b13903.chunk.css.map": "/static/css/main.00b13903.chunk.css.map",
+    "static/js/2.5a45fb00.chunk.js.LICENSE.txt": "/static/js/2.5a45fb00.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/static/media/Sun-Tornado.e7f48e48.svg",
+    "static/media/wrapper.css": "/static/media/bg.470191a9.svg",
+    "static/media/teaching-animate.a73ce344.svg": "/static/media/teaching-animate.a73ce344.svg",
+    "static/media/wait.85adba7b.svg": "/static/media/wait.85adba7b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900dd88b.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.5a45fb00.chunk.js",
+    "static/css/main.00b13903.chunk.css",
+    "static/js/main.def578b4.chunk.js"
+  ]
+}

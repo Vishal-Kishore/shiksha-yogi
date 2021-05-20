@@ -1,0 +1,61 @@
+.intro{
+    color: white;
+    text-align: center;
+    font-family: 'Yusei Magic', sans-serif;
+    padding: 20px ;
+    height: 100%;
+    background: url("../../assets/Sun-Tornado.svg")  ;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .live{
+    background-color: white;
+    padding: 5px 10px;
+    color: red;
+    font-weight:bolder;
+    transition: all ease-in;
+  }
+  
+.dot{
+    height: 25px;
+    width: 25px;
+    background-color: red ;
+    border-radius: 50%;
+   display: inline-block;
+   margin-right: .5rem;
+}
+  .textSans{
+    padding: 0px;
+    color: white;
+    font-family: 'Baloo 2', cursive;
+}
+.font{
+  font-family: 'Comfortaa', cursive;
+  padding-bottom: 1.4rem;
+}
+.logo-name{
+font-size: 2rem;
+font-weight: 300;
+}
+
+.color{
+  margin-top: 1em;
+  color: yellow
+}
+
+.blink {
+  animation: blink-animation 1s steps(5, start) infinite;
+  transition: all ease-in;
+  -webkit-animation: blink-animation 1s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}

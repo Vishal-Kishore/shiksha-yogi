@@ -1,0 +1,18 @@
+.wait{
+  
+    max-height: 75vh;
+}
+body{
+    overflow-x: hidden;
+}
+.context{
+    min-height: 80vh;
+    
+    width: 100%;
+    background: #007bff;
+    background: linear-gradient(to right, #0062E6, #33AEFF);
+      
+}
+.context h1{
+    text-transform: capitalize;
+}
